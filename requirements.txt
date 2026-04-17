@@ -1,0 +1,6 @@
+streamlit
+pandas
+pydeck
+pymongo
+boto3
+reportlab

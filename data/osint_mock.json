@@ -1,0 +1,32 @@
+[
+  {
+    "source": "OSINT-MOCK",
+    "intel_type": "OSINT",
+    "title": "Local News Signal",
+    "description": "Open-source mention of unusual logistics activity near depot.",
+    "latitude": 28.6139,
+    "longitude": 77.209,
+    "timestamp": "2026-04-17T17:30:00Z",
+    "image_data_uri": ""
+  },
+  {
+    "source": "OSINT-MOCK",
+    "intel_type": "OSINT",
+    "title": "Social Media Cluster",
+    "description": "High-volume geo-tagged posts from the same corridor.",
+    "latitude": 28.6202,
+    "longitude": 77.225,
+    "timestamp": "2026-04-17T18:10:00Z",
+    "image_data_uri": ""
+  },
+  {
+    "source": "OSINT-MOCK",
+    "intel_type": "OSINT",
+    "title": "Forum Alert",
+    "description": "Civilian forum report indicates repeated movement pattern.",
+    "latitude": 28.6021,
+    "longitude": 77.1988,
+    "timestamp": "2026-04-17T18:25:00Z",
+    "image_data_uri": ""
+  }
+]
